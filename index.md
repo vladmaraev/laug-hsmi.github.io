@@ -11,9 +11,11 @@ layout: page
   <a class="button btn btn-dark" href="#sponsors">Sponsors</a>
 </div>
 
-**When:** 19 July 2025
+**▶️ Recording Online**: [SlidesLive Access](https://slideslive.com/icml-2025/terrabytes-towards-global-datasets-and-models-for-earth-observation)
 
-**Where:** Vancouver, Canada
+**📅 When:** 19 July 2025
+
+**📍 Where:** Vancouver, Canada
 
 **Official workshop schedule on ICML website**: [ICML.cc - TerraBytes 2025](https://icml.cc/virtual/2025/workshop/39951)
 
@@ -83,11 +85,11 @@ It is expected that at least one author of each accepted paper will register for
 
 **Morning session**
 
-* 9:00-9:10: Opening remarks
-* 9:10-9:50: **Keynote: Sujit Roy** (NASA IMPACT) *"Building Scientific AI Foundation Models for Earth"*
+* 9:00-9:10: Opening remarks [[Watch Online]](https://slideslive.com/39044616/opening-remarks?ref=folder-199217)
+* 9:10-9:50: **Keynote: Sujit Roy** (NASA IMPACT) *"Building Scientific AI Foundation Models for Earth"* [[Watch Online]](https://slideslive.com/39044617/building-scientific-ai-foundation-models-for-earth?ref=folder-199217)
 * 9:50-10:10: **Paper spotlights:** Benchmarks and Deployments
 * Coffe break
-* 10:40-11:20: **Keynote: Razvan Cosac** (ESA Ground Segment) *"From TerraBytes to PetaBytes: ESA Earth Observation Framework and Copernicus Data Ecosystem"*
+* 10:40-11:20: **Keynote: Razvan Cosac** (ESA Ground Segment) *"From TerraBytes to PetaBytes: ESA Earth Observation Framework and Copernicus Data Ecosystem"* [[Watch Online]](https://slideslive.com/39044622/from-terrabytes-to-petabytes-esa-earth-observation-framework-and-copernicus-data-ecosystem?ref=folder-199217)
 * 11:20-12:00: **Paper spotlights:** Multimodality
 
 **Afternoon session**
@@ -95,14 +97,14 @@ It is expected that at least one author of each accepted paper will register for
 * 13:15-14:00: **Paper spotlights:** New Methods
 * 14:00-15:00: **Poster session**
 * Coffee break
-* 15:30-16:10: **Keynote: Erin Trochim** (University of Alaska Fairbanks) *"Building Trust in GeoAI and Earth Observations: Lessons from Complex Systems"*
-* 16:10-17:10: **Panel session:** *"Towards Global Geospatial Models"*
+* 15:30-16:10: **Keynote: Erin Trochim** (University of Alaska Fairbanks) *"Building Trust in GeoAI and Earth Observations: Lessons from Complex Systems"* [[Watch Online]](https://slideslive.com/39044635/building-trust-in-geoai-and-earth-observations-lessons-from-complex-systems?ref=folder-199217)
+* 16:10-17:10: **Panel session:** *"Towards Global Geospatial Models"* [[Watch Online]](https://slideslive.com/39044636/panel-session?ref=folder-199217)
   * Ritwik Gupta, Incoming Assistant Professor at the University of Maryland
   * Tanya Nair, Senior Machine Learning Engineer at Floodbase
   * Ryan Avery,Senior Machine Learning Engineer at Wherobots
   * Mikhail Klassen, Senior Machine Learning Engineer at Planet
-* 17:10-17:20: European Space Agency [Copernicus AI Report](https://asterisk.coop/project-pages/project-copernicus-report.html): Stakeholder Feedback Session
-* 17:20-17:30: Closing remarks
+* 17:10-17:20: European Space Agency [Copernicus AI Report](https://asterisk.coop/project-pages/project-copernicus-report.html): Stakeholder Feedback Session [[Watch Online]](https://slideslive.com/39044637/copernicus-feedback?ref=folder-199217)
+* 17:20-17:30: Closing remarks [[Watch Online]](https://slideslive.com/39044638/closing-remarks?ref=folder-199217)
 
 <h3 id="speakers">Speakers</h3>
 ---
