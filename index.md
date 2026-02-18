@@ -65,7 +65,7 @@ Submission to the LaugHSMI workshop is **double-blind**. The workshop accepts sh
 
 Short research papers can describe work in progress, position papers, datasets, or research papers that have been already published in another venue (conference or journal) in the last 12 months that are relevant to LaugHSMI's topics of interest. For already published works, please submit a summarized four-page short paper.
 
-All submissions should be submitted through the submission website (TBA) before the deadline (see important dates below).
+All submissions should be submitted through OpenReview before the deadline (see important dates below).
 
 All submissions will be reviewed by at least two non-conflicting reviewers. All papers will be presented during a dedicated poster session. Selected full-length and short papers will also be presented as oral presentations throughout the day.
 
@@ -75,6 +75,8 @@ If you have any questions, do not hesitate to contact the organizers (see contac
 
 <h3 id="dates">Important dates</h3>
 ---
+
+This is tentative: 
 
 * Papers submission deadline: July 1st, 2026
 * Papers acceptance notification: July 22nd, 2026
@@ -101,20 +103,19 @@ We are inviting distinguished speakers from academia and industry working on lau
 ---
 
 <h4 id="organizers">Organizers</h4>
----
+
 * [Valentin Barriere, University of Chile](https://valbarriere.github.io/)
-* [Sofia Callejas, Université Paris-Saclay & Universidad de Chile](mailto:sofia.paz-callejas-diaz@universite-paris-saclay.fr)
-* [Vladislav Maraev, University of Gothenburg](mailto:vladislav.maraev@gu.se)
-* [Chiara Mazzocconi, Aix-Marseille Université](mailto:chiara.mazzocconi@live.it)
-* [Catherine Pelachaud, Sorbonne University](mailto:catherine.pelachaud@isir.upmc.fr)
-* [Brian Ravenet, Université Paris-Saclay](mailto:brian.ravenet@universite-paris-saclay.fr)
+* [Sofia Callejas, Université Paris-Saclay & Universidad de Chile](https://cl.linkedin.com/in/sofia-paz-callejas-8024b6200/es)
+* [Vladislav Maraev, University of Gothenburg](https://maraev.me/)
+* [Chiara Mazzocconi, Aix-Marseille Université](http://www.llf.cnrs.fr/en/Gens/Mazzocconi)
+* [Catherine Pelachaud, Sorbonne University](https://www.isir.upmc.fr/personnel/pelachaud/)
+* [Brian Ravenet, Université Paris-Saclay](https://brianrave.net/)
 
 <h4 id="committee">Program committee</h4>
----
 
 **To Be Announced**
 
-**Primary Contacts**: Contact Mail: laughsmi@gmail.com
+**Primary Contacts**: [Workshop Mail](mailto:laughsmi@gmail.com)
 
 <h3 id="sponsors">Sponsors</h3>
 ------
