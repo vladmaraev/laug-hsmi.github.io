@@ -76,9 +76,7 @@ If you have any questions, do not hesitate to contact the organizers (see contac
 <h3 id="dates">Important dates</h3>
 ---
 
-This is tentative: 
-
-* Papers submission deadline: July 1st, 2026
+* Papers submission deadline: July 10th, 2026
 * Papers acceptance notification: July 22nd, 2026
 * Camera-ready deadline: August 1st, 2026
 * Workshop: October 5-9, 2026
